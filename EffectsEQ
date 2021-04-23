@@ -1,0 +1,22 @@
+reverb = input("Enter Reverb Level: ")
+delay = input("Enter Delay Level: ")
+prescence = input("Enter Presence Level: ")
+overdrive = input("Enter Overdrive Level: ")
+distortion = input("Enter Distortion Level: ")
+master = input("Enter Master Volume Level: ")
+
+
+treble = input("Enter Treble Level: ")
+mid = input("Enter Mid Level: ")
+bass = input("Enter Bass Level: ")
+
+
+print("Reverb Level: " + reverb)
+print("Delay Level: " + reverb)
+print("Presence Level: " + reverb)
+print("Overdrive Level: " + reverb)
+print("Distortion Level: " + reverb)
+print("Master Level: " + reverb)
+print("Treble Level: " + reverb)
+print("Mid Level: " + reverb)
+print("Bass Level: " + reverb)
